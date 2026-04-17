@@ -1,5 +1,7 @@
 # Shortest Route Finder - Brazilian Cities
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geangontijo/dijkstra-cities/blob/main/demo.ipynb)
+
 A hands-on Data Science project implementing **Dijkstra's Algorithm** from scratch in Python to find the shortest route between Brazilian cities.
 
 Built as a practical exercise after studying the Dijkstra chapter from *Grokking Algorithms* (2nd edition).
